@@ -1,0 +1,10 @@
+import prof1 from './icons/boys/prof-1.jpeg'
+import prof2 from './icons/boys/prof-4.avif'
+import prof3 from './icons/boys/prof-5.avif'
+import prof4 from './icons/boys/prof-6.jpg'
+
+import profG1 from './icons/girls/prof_g-1.avif'
+import profG2 from './icons/girls/prof_g-2.webp'
+import profG3 from './icons/girls/prof_g-3.avif'
+import profG4 from './icons/girls/prof_g-4.jpg'
+import profG5 from './icons/girls/prof_g-6.webp'
